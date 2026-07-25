@@ -4,3 +4,4 @@
 2. crop_clothes.py
 3. generate_captions_colab_upgrade.ipynb
 4. clean_captions.py
+5. evaluate_clip.ipynb
