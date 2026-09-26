@@ -5,7 +5,8 @@
 
 `SigLIP2` · `Qdrant` · `BGE Reranker` · `Qwen3-VL` · `GPT-4o` · `YOLO` · `Gradio` · `PEFT(LoRA)`
 
-<!-- 데모 GIF/스크린샷을 여기에 넣으면 좋습니다 -->![Uploading 멀티모달 검색.png…]()
+<!-- 데모 GIF/스크린샷을 여기에 넣으면 좋습니다 --><img width="932" height="940" alt="멀티모달 검색" src="https://github.com/user-attachments/assets/2e331356-b942-4245-99fb-2a0a15d3589f" />
+
 
 <!-- ![demo](docs/demo.gif) -->
 
