@@ -4,4 +4,7 @@
 2. crop_clothes.py
 3. generate_captions_colab_upgrade.ipynb
 4. clean_captions.py
-5. evaluate_clip.ipynb
+5. finetune_clip.ipynb, finetune_siglip2_full.ipynb
+6. evaluate_jina_clip_experiment2_val7000.ipynb, evaluate_siglip2_full_experiment2_val7000.ipynb
+7. search_lookmatch_local_valonly_price_gradio_naverpicture_text+imagesearch_reason2_rerank_crossencoder(textonly).ipynb
+8. evaluate_vlm_judge_gpt_changequery2_margin.ipynb
